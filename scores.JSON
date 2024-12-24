@@ -1,0 +1,44 @@
+{
+    "scores": {
+        "Facile": [
+            {
+                "player_name": "Thim",
+                "elapsed_time": 70,
+                "grid_id": "Facile_grid"
+            },
+            {
+                "player_name": "laurent",
+                "elapsed_time": 92,
+                "grid_id": "Facile_grid"
+            },
+            {
+                "player_name": "Alice",
+                "elapsed_time": 120,
+                "grid_id": "Facile_grid"
+            },
+            {
+                "player_name": "Raph",
+                "elapsed_time": 127,
+                "grid_id": "Facile_grid"
+            },
+            {
+                "player_name": "Bob",
+                "elapsed_time": 140,
+                "grid_id": "Facile_grid"
+            },
+            {
+                "player_name": "siwak",
+                "elapsed_time": 209,
+                "grid_id": "Facile_grid"
+            }
+        ],
+        "Moyen": [
+            {
+                "player_name": "Charlie",
+                "elapsed_time": 300,
+                "grid_id": "Moyen_grid"
+            }
+        ],
+        "Difficile": []
+    }
+}
